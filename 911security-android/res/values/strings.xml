@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">911security-android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">911security application welcomes you</string>
+    <string name="hello_world2">searching for nearest department ...</string>
+    <string name="help">HELP</string>
+    <string name="report">Report</string>
+    <string name="report_photo">Report with Photo</string>
+    <string name="info_dialog_text">Getting info about your local police department</string>
+    <string name="geolocation_problem">Problem with obtaining your geolocation</string>
+    <string name="calling_help">Calling help</string>
+    <string name="help_is_coming">Help is on it\'s way keep calm</string>
+    <string name="help_call_problem">Help is not responding, try to call 911</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="reporting">Reporting message</string>
+    <string name="reported">Your message was reported</string>
+    <string name="report_fail">Message reportimng has failed</string>
+    <string name="enter_text">Please enter some text first</string>
+    <string name="uploading">Sending your photo</string>
+    <string name="data_sent">Your photo was sent</string>
+    <string name="sending_data_failed">Sending your photo failed</string>
+    <string name="banned">You were banned due to bad behaviour</string>
+
+</resources>
